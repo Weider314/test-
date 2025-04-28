@@ -1,7 +1,6 @@
 <html>
     <head>
         <title>BitMarket</title>
-        <link rel="stylesheet" href="style.css">
 <style>
 body {
     font-family: sans-serif;
