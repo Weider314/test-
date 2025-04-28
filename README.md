@@ -2,11 +2,6 @@
     <head>
         <title>BitMarket</title>
         <link rel="stylesheet" href="style.css">
-    </head>
-    <body>
-        <header>
-            <img src="https://learn.algoritmika.org/uploads/2021/02/logo_0_1613588860.svg">
-            <a class="button" href="">Скидки</a>
 <style>
 body {
     font-family: sans-serif;
@@ -91,6 +86,11 @@ footer p {
     padding: 15px;
 }
 </style>
+    </head>
+    <body>
+        <header>
+            <img src="https://learn.algoritmika.org/uploads/2021/02/logo_0_1613588860.svg">
+            <a class="button" href="">Скидки</a>
         </header>
         <nav>
             <a class="nav-link" href="">Каталог</a>
