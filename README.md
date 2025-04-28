@@ -50,7 +50,7 @@
         </footer>
     </body>
 </html>
-<CSS>
+<style>
 body {
     font-family: sans-serif;
     background-color: white;
@@ -133,4 +133,4 @@ footer a {
 footer p {
     padding: 15px;
 }
-</CSS>
+</style>
